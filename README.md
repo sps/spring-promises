@@ -9,7 +9,7 @@ method references.
 ## Maven
 
     <dependency>
-        <groupId>com.github.codefarmer</groupId>
+        <groupId>org.github.codefarmer</groupId>
         <artifactId>spring-promises</artifactId>
         <version>1.0.3</version>
     </dependency>
